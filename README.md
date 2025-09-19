@@ -30,7 +30,7 @@ My goal is to grow as a **Data Analyst / Business Intelligence Professional**, a
 ## 📂 Portfolio Projects
 
 ### 1. Exploratory Data Analysis (EDA) – *Python*
-📌 Example: Netflix Dataset  
+📌 Netflix Dataset  
 - Data cleaning and transformation using pandas and numpy.  
 - Exploratory analysis with descriptive statistics.  
 - Visualizations with seaborn and matplotlib.  
@@ -38,7 +38,7 @@ My goal is to grow as a **Data Analyst / Business Intelligence Professional**, a
 ---
 
 ### 2. SQL Analytics – *Northwind Sales Database*
-📌 Example Queries:  
+📌 Queries:  
 - Join multiple tables to analyze customer behavior.  
 - Calculate KPIs: average sales, top products, active customers.  
 - Business insights through SQL queries.  
