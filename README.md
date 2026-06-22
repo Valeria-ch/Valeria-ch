@@ -1,9 +1,10 @@
-# 📊 Valeria Chiguachí Vélez
+# Valeria Chiguachí Vélez
 
 👩‍💻 **Industrial Engineer | Data Analyst in training**  
 📍 Pereira, Colombia  
 📧 vchiguachi.ds@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222) | [GitHub](https://github.com/vale-chigua)
+🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222)
+📊 [GitHub](https://github.com/vale-chigua)
 
 ---
 
@@ -40,14 +41,14 @@ An end-to-end unsupervised learning solution developed for the Jorge Roa Martín
 * Solved a structural 43% missing data rate using a custom longitudinal cross-imputation algorithm.
 * Built and structured an interactive **Streamlit** dashboard utilizing **Plotly Express** to translate segments into action windows for student retention and digital budget optimization.
 
+### 💻 [Telework Analytics & Role Evaluation Framework](LINK_A_TU_REPOSITORIO_DE_TELETRABAJO)
+An automated corporate tool developed to evaluate teleworking eligibility based on complex role and personnel variables, processing a massive organizational dataset.
+* Designed and engineered the statistical decision-making logic using **Python** to replace slow, manual evaluations, reducing reporting times by 40%.
+* **Scientific Publication:** Due to its high methodology rigor and success, this research was peer-reviewed and published as a formal scientific article: *"Methodology for Telework Assignment Based on Evaluation of Roles and People (2025)"*.
+
 ---
 
 ## Connect with me
 * **LinkedIn:** [linkedin.com/in/valchiguachidatascience](https://www.linkedin.com/in/valchiguachidatascience)
 * **Email:** vchiguachi.ds@gmail.com
----
 
-## Let’s Connect!
-
-If you’re interested in collaborating, sharing knowledge, or exploring data-driven solutions, feel free to reach out!  
-📧 **vchiguachi.ds@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222)
