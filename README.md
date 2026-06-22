@@ -8,7 +8,7 @@
 
 ---
 
-# Hi there, I'm Valeria Chiguachí Vélez! 👋
+# Hi there, I'm Valeria! 👋
 ### Industrial Engineer & Data Scientist 
 
 I am an Industrial Engineer specialized in **Applied Analytics and Data Science**. My professional approach is strictly **descriptive-analytical**, focusing on transforming complex corporate datasets and large-scale transactional logs into empirical evidence and actionable insights that support strategic organizational decision-making.
