@@ -2,82 +2,52 @@
 
 👩‍💻 **Industrial Engineer | Data Analyst in training**  
 📍 Pereira, Colombia  
-📧 valechigua@gmail.com  
+📧 vchiguachi.ds@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222) | [GitHub](https://github.com/vale-chigua)
 
 ---
 
-## 🚀 About Me
+# Hi there, I'm Valeria Chiguachí Vélez! 👋
+### Industrial Engineer & Data Scientist
 
-I am an **Industrial Engineer** currently pursuing a **Specialization in Applied Analytics and Data Science**.  
-Passionate about leveraging **data analysis, visualization, and automation** to solve real business challenges and support strategic decision-making.  
-
-My goal is to grow as a **Data Analyst / Business Intelligence Professional**, applying my skills in Python, SQL, and Power BI to generate impact in data-driven organizations.
+I am an Industrial Engineer specialized in **Applied Analytics and Data Science**. My professional approach is strictly **descriptive-analytical**, focusing on transforming complex corporate datasets and large-scale transactional logs into empirical evidence and actionable insights that support strategic organizational decision-making.
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming & Data Analysis**: Python, R (RStudio)  
-- **Databases / Query**: SQL  
-- **Statistical Analysis & Modeling**: Hypothesis testing, basic machine learning  
-- **Data Visualization**: Power BI, Tableau, Advanced Excel  
-- **Other Tools**: Git/GitHub, Automation with Python  
-- **Languages**: Spanish (native), English (B2 – intermediate/advanced)  
+## Areas of Expertise
+* **People Analytics & HR Management:** Formulating analytical frameworks to optimize workforce planning and evaluate administrative variables.
+* **Machine Learning & Predictive Modeling:** Implementing clustering architectures, statistical hypothesis testing, and supervised learning pipelines.
+* **Data Visualization & Storytelling:** Architecting advanced interactive dashboards to democratize data and translate mathematical models into high-level business actions.
 
 ---
 
-## 📂 Portfolio Projects
+## Technical Toolkit
 
-### 1. Exploratory Data Analysis (EDA) – *Python*
-📌 Netflix Dataset  
-- Data cleaning and transformation using pandas and numpy.  
-- Exploratory analysis with descriptive statistics.  
-- Visualizations with seaborn and matplotlib.  
-
----
-
-### 2. SQL Analytics – *Northwind Sales Database*
-📌 Queries:  
-- Join multiple tables to analyze customer behavior.  
-- Calculate KPIs: average sales, top products, active customers.  
-- Business insights through SQL queries.  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, SQL (PostgreSQL, MySQL) |
+| **Data Science & ML** | Scikit-Learn, Statsmodels, Pandas, NumPy, SciPy |
+| **Frameworks & BI** | Streamlit, Plotly, Power BI, Advanced Excel, RMarkdown |
+| **Version Control & Dev** | Git, GitHub, VS Code, Google Colab |
 
 ---
 
-### 3. HR Dashboard – *Power BI*
-📌 Human Resources dataset (turnover & absenteeism).  
-- Interactive dashboards with filters by department.  
-- KPIs: retention, absenteeism, workforce distribution.  
-- Visual storytelling for decision-making.  
+## Featured Project
+
+### 🏛️ [Institutional User Segmentation Model](https://github.com/vale-chigua/user-segmentation-library-analytics)
+An end-to-end unsupervised learning solution developed for the Jorge Roa Martínez Library (UTP) that processed over **1.78M transactional records**.
+* Implemented a density-based noise filter (`DBSCAN`) followed by a robust partitioning architecture (`K-Means`) to discover 4 operational user profiles.
+* Solved a structural 43% missing data rate using a custom longitudinal cross-imputation algorithm.
+* Built and structured an interactive **Streamlit** dashboard utilizing **Plotly Express** to translate segments into action windows for student retention and digital budget optimization.
 
 ---
 
-### 4. Machine Learning Basics – *Titanic Dataset*
-📌 Classification model using Logistic Regression.  
-- Data preprocessing and feature engineering.  
-- Model training and evaluation (accuracy, confusion matrix).  
-- Predictions on survival outcomes.  
-
+## Connect with me
+* **LinkedIn:** [linkedin.com/in/valchiguachidatascience](https://www.linkedin.com/in/valchiguachidatascience)
+* **Email:** vchiguachi.ds@gmail.com
 ---
 
-## 📜 Publications & Projects
-
-- *Escape Room for Teaching Warehouse Logistics Technologies* – XII National Lúdicas RED IDDEAL (2025)  
-- *Scientific Article: Methodology for Telework Assignment Based on Evaluation of Roles and People* (2025)  
-- *Let’s Learn How to Stow Goods* – ACOFI International Engineering Education Meeting (2020)  
-
----
-
-## 🌱 Currently Learning
-
-- Microsoft PL-300: Power BI Data Analyst (certification in progress)  
-- Google Data Analytics Certificate (Coursera)  
-- Cloud fundamentals (AWS/Azure)  
-
----
-
-## 🤝 Let’s Connect!
+## Let’s Connect!
 
 If you’re interested in collaborating, sharing knowledge, or exploring data-driven solutions, feel free to reach out!  
-📧 **valechigua@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222)
+📧 **vchiguachi.ds@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/valeria-chiguachí-vélez-087044222)
